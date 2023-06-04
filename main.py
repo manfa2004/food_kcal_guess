@@ -37,8 +37,8 @@ with open("c:/Users/user/Desktop/food_kcal_guess/Dataset/japanese_foods/ramen.js
     js = json.load(f)
 df = pd.DataFrame(js)
 
-print(df["image_id"][1])
-# print(df)
+# print(df["image_id"][1])
+print(df)
 
 plt.figure(figsize=(10,10))
 
@@ -51,4 +51,5 @@ for i in range(25):
     image = mpimg.imread(li)
     plt.imshow(image, cmap=plt.cm.binary)
     plt.xlabel(df["label"][i])
+
 plt.show()
