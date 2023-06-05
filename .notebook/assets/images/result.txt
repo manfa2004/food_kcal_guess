@@ -1,0 +1,35 @@
+chinese
+
+Bindaetteok 	470.34kcal	(+142.44%)
+cold_noodles 	245.08kcal	(-45.54%)
+japchae 	820.54kcal	(+329.60%)
+pork_barbecue 	649.21kcal	(+56.44%)
+tteokbokki 	481.19kcal	(+58.28%)
+yukgaejang 	444.62kcal	(+169.47%)
+
+japanese
+
+Bindaetteok 	498.82kcal	(+157.12%)
+cold_noodles 	569.11kcal	(+26.47%)
+japchae 	480.60kcal	(+151.62%)
+pork_barbecue 	412.35kcal	(-0.64%)
+tteokbokki 	426.51kcal	(+40.30%)
+yukgaejang 	518.80kcal	(+214.42%)
+
+korean
+
+Bindaetteok 	1073.38kcal	(+453.29%)
+cold_noodles 	505.33kcal	(+12.30%)
+japchae 	642.05kcal	(+236.15)
+pork_barbecue 	209.69kcal	(-49.47%)
+tteokbokki 	110.32kcal	(-63.71%)
+yukgaejang 	606.25kcal	(+267.42%)
+
+original
+
+Bindaetteok 	194kcal
+cold_noodles 	450kcal
+japchae 	191kcal
+pork_barbecue 	415kcal
+tteokbokki 	304kcal
+yukgaejang 	165kcal
